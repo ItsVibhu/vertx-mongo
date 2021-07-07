@@ -1,0 +1,7 @@
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/Main.java
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/repository/BookRepository.java
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/model/Book.java
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/service/BookService.java
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/verticle/MainVerticle.java
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/router/BookRouter.java
+/Users/vmarathe/APT/vertx/vertx-mongo/src/main/java/handler/BookHandler.java

@@ -1,0 +1,7 @@
+verticle/MainVerticle.class
+Main.class
+router/BookRouter.class
+repository/BookRepository.class
+model/Book.class
+handler/BookHandler.class
+service/BookService.class
